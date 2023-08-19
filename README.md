@@ -209,7 +209,7 @@ Class 1:
 
 <img src="static/authors/daniil_devyatkin.png" height="150" width="150">
 
-- Data Scientist at [VK](https://vk.com);
+- Data Scientist at [VK](https://vk.company/ru);
 - Assistant Lecturer at [BMSTU](https://bmstu.ru).
 
 ## Thanks to
