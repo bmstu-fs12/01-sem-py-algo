@@ -1,5 +1,7 @@
 # 01-sem-py-algo
 
+<img src="static/logo/logo.png" height="150" width="150">
+
 1 Semester Python and Algorithms and Data Structures Course
 
 ## Goals
@@ -196,12 +198,17 @@ Class 1:
 #### Lecturer
 [**Mikhail Masyagin**](https://github.com/masyagin1998)
 
+<img src="static/authors/mikhail_masyagin.png" height="150" width="150">
+
 - Senior Software Engineer at [Anecdote](https://anecdoteai.com);
 - Software Engineer at [STC Atlas](https://stcnet.ru);
 - Assistant Lecturer at [BMSTU](https://bmstu.ru).
 
 #### Teacher
 [**Daniil Devyatkin**](https://github.com/d3vyatk4ru)
+
+<img src="static/authors/daniil_devyatkin.png" height="150" width="150">
+
 - Data Scientist at [VK](https://vk.com);
 - Assistant Lecturer at [BMSTU](https://bmstu.ru).
 
