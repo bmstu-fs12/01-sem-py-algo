@@ -194,14 +194,14 @@ Class 1:
 - IO-bound vs CPU-bound tasks.
 
 #### Lecturer
-**Mikhail Masyagin**
+[**Mikhail Masyagin**](https://github.com/masyagin1998)
 
 - Senior Software Engineer at [Anecdote](https://anecdoteai.com);
 - Software Engineer at [STC Atlas](https://stcnet.ru);
 - Assistant Lecturer at [BMSTU](https://bmstu.ru).
 
 #### Teacher
-**Daniil Devyatkin**
+[**Daniil Devyatkin**](https://github.com/d3vyatk4ru)
 - Data Scientist at [VK](https://vk.com);
 - Assistant Lecturer at [BMSTU](https://bmstu.ru).
 
