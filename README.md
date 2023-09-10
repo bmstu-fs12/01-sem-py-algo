@@ -191,9 +191,11 @@ Class 1:
 - TCP & UDP, HTTP;
 - sending many-many requests in one second.
 
-## Authors
-- asynchronous programming essentials.
+Class 2:
+- asynchronous programming essentials;
 - IO-bound vs CPU-bound tasks.
+
+## Authors
 
 #### Lecturer
 [**Mikhail Masyagin**](https://github.com/masyagin1998)
