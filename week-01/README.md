@@ -23,8 +23,7 @@
 
 ### Coding Homework
 
-## 1.1 Polynomial (polynom).
-
+## 1.1 Polynomial (polynom)
 Write a program that calculates the value of a polynomial: $$P_n (x) = a_n x^n + a_{n- 1} x^{n -1} + \ldots + a_1 x + a_0$$
 and its derivative at a given point $x_0$. The coefficients of the polynomial and the value of $x_0$ are integers ranging from $-2^{63}$ to $2^{63} - 1$.
 The program must read from the standard input the degree of the polynomial **n**, the value of $x_0$ and the coefficients of the polynomial $a_n, ..., a_0$.
@@ -34,8 +33,7 @@ $$P_n (x) = (...((a_n x + a_{n-1}) x + a_{n-2})x + \ldots + a_1)x +a_0.$$
 
 To calculate the value of the derivative of a polynomial, it is necessary to modify Horner's scheme in an obvious way.
 
-## 1.2 Product of numbers modulo (mulmod).
-
+## 1.2 Product of numbers modulo (mulmod)
 Compose a program that evaluates the expression $\left(a\cdot b\right)\textrm{ mod }m$, that is, the remainder of dividing the product of the numbers $a$ and $b$ by $m$.
 The program must read the numbers $a$, $b$ and $m$ from the standard input stream, and output the result to the standard output stream.
 
@@ -51,8 +49,7 @@ Considering that for any $x$, $y$ and $m$ the identities are valid
 $$\left(x+y\right)\textrm{ mod }m\equiv\left(\left(x\textrm{ mod }m\right)+\left(y\textrm{ mod }m\right)\right)\textrm{ mod }m,$$
 When calculating the right side of our formula, we have the right to do the following: if there is a possibility that the sum of two terms will exceed $2^{64}$, we need to add the remainders from dividing these terms by $m$; similarly for the work. This technique guarantees that an overflow will never occur during the calculation.
 
-## 1.3 Fibonacci number system (fibsys).
-
+## 1.3 Fibonacci number system (fibsys)
 Fibonacci numbers are a sequence of natural numbers $f_i$, in which
 
 ```math
@@ -71,11 +68,13 @@ In order to guarantee the uniqueness of a number in the Fibonacci number system,
 
 Write a program *fibsys* that converts the integer $0\leq x<2^{63}$ to the Fibonacci number system. The program must read the number $x$ from the standard input stream and output to the standard output stream a sequence of zeros and ones that forms the Fibonacci notation of the number $x$.
 
-## 1.4 Intersection of sets (intersect).
+## 1.4 Intersection of sets (intersect)
 Let $\mathbb{N}_{32}$ be the set of natural numbers from 0 to 31. Given two sets $A \subseteq \mathbb{N}\_{32}$ and $B\subseteq\mathbb{N}\_{32}$. Write a program intersect.c that calculates the intersection of the sets $A$ and $B$. The program must output to standard output the elements of set $A\cap B$, sorted in ascending order. It is prohibited to use arrays to store sets: each set must be represented by a 32-bit integer such that if its $i$-th bit is 1, then the number $i$ belongs to the set.
 
-## 1.5 Permuting array elements (permut).
-Given two integer arrays of size 8 elements. Write a permut program to determine whether one array can be obtained by permuting the elements of another array.
-The program must read the elements of both arrays from the standard input stream, and then print the word “yes” to the standard output stream if the arrays match up to permutation of elements, and “no” otherwise. The program must read from the standard input the size of set $A$ and the elements of set $A$, and then the size of set $B$ and the elements of set $B$.
+## 1.5 Factorial's zeros
+Write a function, named `factorial`, that calculates the value of given number's factorial: $n! = 1 \cdot 2 \cdot 3 \cdot ... \cdot (n - 1) \cdot n$. Write a function, named `factorial_zeros`, that calculates how many zeros are in the end of `factorial(n)` without its direct calculation.
 
-Sorting arrays is prohibited.
+## 1.6 Josephus Flavius task
+In 67 AD during the Jewish-Roman War, Josephus Flavius and forty rebels were trapped in a cave. Preferring being suicided to captivity, they decided to stand in a circle and kill every third of the survivors. Josephus wanted to stay alive and realized where he had to stand in the circle to stay alive in the series of executions. So he lived to tell the tale.
+
+Let's assume that there are $N$ rebels, numerated from $0$ to $N-1$, and they start to kill themselves starting from $0$ and then killing each $K$'th of them. Write a program, which helps Josephus to survive depending on given $N$ and $K$.
