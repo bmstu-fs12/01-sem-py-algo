@@ -214,5 +214,16 @@ Class 2:
 - Data Scientist at [VK](https://vk.company/ru);
 - Assistant Lecturer at [BMSTU](https://bmstu.ru).
 
+## Presentation colors & fonts
+
+- First Slide Title: font `Lato 50pt`, color `0xffffff`;
+- First Slide Authors: font `Lato 25pt`, color `0x000000`;
+- Basic Title: font `Lato 40pt`, color `0xffffff`;
+- Basic Text: font `Lato 30pt`, color `0xffffff`;
+- Basic Code: font `Courier 30pt`, color `0x00c462`;
+- Code Functions: font `Courier 30pt`, color `0xc9211e`;
+- Code Variables: font `Courier 30pt`, color `0xea7500`;
+- Code Keywords: font `Courier 30pt`, color `0xffff00`;
+
 ## Thanks to
 Many thanks to **Vladimir Goryainov** for being my scientific advisor and for **Vladimir Pankratov** and **Elena Tverskaya** - people without who this course would be impossible.
