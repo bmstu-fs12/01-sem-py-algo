@@ -8,24 +8,24 @@
 ### Good to Read
 
 - Class 1:
- - [Collections](https://fadeevlecturer.github.io/python_lectures/notebooks/python/collections.html);
- - [Sequences](https://fadeevlecturer.github.io/python_lectures/notebooks/python/sequences.html);
- - [List Internals](https://habr.com/ru/articles/273045/)
- - [Tuple vs List](https://www.geeksforgeeks.org/python-difference-between-list-and-tuple/);
- - [Dict](https://medium.com/@artturi-jalli/python-dictionary-a-complete-guide-538292873053);
- - [Dict Internals](https://habr.com/ru/articles/432996/);
- - [Iterators](https://habr.com/ru/articles/488112/);
- - [Garbage Collector I](https://habr.com/ru/articles/417215/);
- - [Garbage Collector II](https://fadeevlecturer.github.io/python_lectures/notebooks/python/garbage_collector.html);
- - [Type hints](https://habr.com/ru/companies/lamoda/articles/432656/).
+  - [Collections](https://fadeevlecturer.github.io/python_lectures/notebooks/python/collections.html);
+  - [Sequences](https://fadeevlecturer.github.io/python_lectures/notebooks/python/sequences.html);
+  - [List Internals](https://habr.com/ru/articles/273045/)
+  - [Tuple vs List](https://www.geeksforgeeks.org/python-difference-between-list-and-tuple/);
+  - [Dict](https://medium.com/@artturi-jalli/python-dictionary-a-complete-guide-538292873053);
+  - [Dict Internals](https://habr.com/ru/articles/432996/);
+  - [Iterators](https://habr.com/ru/articles/488112/);
+  - [Garbage Collector I](https://habr.com/ru/articles/417215/);
+  - [Garbage Collector II](https://fadeevlecturer.github.io/python_lectures/notebooks/python/garbage_collector.html);
+  - [Type hints](https://habr.com/ru/companies/lamoda/articles/432656/).
 - Class 2:
- - [Functional programming](https://habr.com/ru/articles/555378/);
- - [Modules & Packages](https://habr.com/ru/articles/718828/);
- - [Requirements](https://semakin.dev/2020/04/requirements_txt/?ysclid=lmsfzwiheg711857653);
- - [Files & I/O I](https://eldoyle.github.io/PythonIntro/08-ReadingandWritingTextFiles/);
- - [Files & I/O II](https://habr.com/ru/companies/selectel/articles/547290/);
- - [Files & I/O III](https://fadeevlecturer.github.io/python_lectures/notebooks/python/filesystem.html);
- - [Files & I/O IV](https://fadeevlecturer.github.io/python_lectures/notebooks/python/files.html).
+  - [Functional programming](https://habr.com/ru/articles/555378/);
+  - [Modules & Packages](https://habr.com/ru/articles/718828/);
+  - [Requirements](https://semakin.dev/2020/04/requirements_txt/?ysclid=lmsfzwiheg711857653);
+  - [Files & I/O I](https://eldoyle.github.io/PythonIntro/08-ReadingandWritingTextFiles/);
+  - [Files & I/O II](https://habr.com/ru/companies/selectel/articles/547290/);
+  - [Files & I/O III](https://fadeevlecturer.github.io/python_lectures/notebooks/python/filesystem.html);
+  - [Files & I/O IV](https://fadeevlecturer.github.io/python_lectures/notebooks/python/files.html).
 
 ### Coding Homework
 
